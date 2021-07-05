@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root>
+    <player>
+        <firstName>Наталья</firstName><middleName>Васильевна</middleName><lastName>Малиновская</lastName><birthDate>Mon Sep 09 00:00:00 MSK 3901</birthDate><teamName>921703</teamName><homeTown>Витебск</homeTown><squad>основной</squad><position>защитник</position></player>
+    <player>
+        <firstName>Ирина</firstName><middleName>Алексеевна</middleName><lastName>Занберова</lastName><birthDate>Sat Aug 24 00:00:00 MSK 3901</birthDate><teamName>921703</teamName><homeTown>Минск</homeTown><squad>основной</squad><position>нападающий</position></player>
+    <player>
+        <firstName>Никита</firstName><middleName>Сергеевич</middleName><lastName>Тороп</lastName><birthDate>Sun Dec 31 00:00:00 MSK 1899</birthDate><teamName>921703</teamName><homeTown>Толочин</homeTown><squad>основной</squad><position>староста:)</position>
+    </player>
+    <player>
+        <firstName>Кирилл</firstName><middleName>Батькович</middleName><lastName>Щепков</lastName><birthDate>Sun Dec 31 00:00:00 MSK 1899</birthDate><teamName>921703</teamName><homeTown>Минск</homeTown><squad>основной</squad><position>защитник</position></player>
+    <player>
+        <firstName>Кирилл</firstName><middleName>Владимирович</middleName><lastName>Гриняк</lastName><birthDate>Sun Dec 31 00:00:00 MSK 1899</birthDate><teamName>921703</teamName><homeTown>Бобруклин</homeTown><squad>основной</squad><position>нападающий</position></player>
+    <player>
+        <firstName>Павел Ян</firstName><middleName>Мирославович</middleName><lastName>Зломанец</lastName><birthDate>Sun Jul 08 00:00:00 MSK 3900</birthDate><teamName>921703</teamName><homeTown>Минск</homeTown><squad>основной</squad><position>НАПАДАЮЩИЙ</position></player>
+    <player>
+        <firstName>Сергей</firstName><middleName>Андреевич</middleName><lastName>Головаченко</lastName><birthDate>Sun Dec 31 00:00:00 MSK 1899</birthDate><teamName>921703</teamName><homeTown>Брест</homeTown><squad>основной</squad><position>экс староста :)</position></player>
+    <player>
+        <firstName>Илья</firstName><middleName>Александрович</middleName><lastName>Кульбеда</lastName><birthDate>Mon Dec 02 00:00:00 MSK 3901</birthDate><teamName>921701</teamName><homeTown>Кобрин</homeTown><squad>запасной</squad><position>вратарь</position></player>
+    <player><firstName>Анастасия</firstName><middleName>Владимировна</middleName><lastName>Солдатенко</lastName><birthDate>Sun Dec 31 00:00:00 MSK 1899</birthDate><teamName>972301</teamName><homeTown>Шклов</homeTown><squad>основной</squad><position>нападающий</position></player></root>
+
